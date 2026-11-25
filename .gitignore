@@ -1,0 +1,7 @@
+# Nginx Proxy Manager data: admin login DB, logs, certificates
+proxy/
+# dependencies and local files
+node_modules/
+__pycache__/
+*.log
+.env
